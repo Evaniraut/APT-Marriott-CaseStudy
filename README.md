@@ -20,8 +20,8 @@ This project analyzes the Advanced Persistent Threat (APT) attack on Marriott In
 - Conclusion, findings, references, and appendix  
 
 ## Files in this Repo  
-- [23047473_EvaniRaut_Marriott_APT_Report.pdf](23047473_EvaniRaut/23047473_EvaniRaut_Marriott_APT_Report.pdf) — Complete detailed report including analysis, figures, and references  
-
+- [23047473_EvaniRaut_cybersecurity.pdf](23047473_EvaniRaut_cybersecurity.pdf) — Complete detailed report including analysis, figures, and references
+  
 ## Key Learnings  
 - Insight into APT attack techniques and cybersecurity threats  
 - Understanding legal and regulatory frameworks in cybersecurity  
